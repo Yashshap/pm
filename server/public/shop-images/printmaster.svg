@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f0f9ff"/>
+  <path d="M50 80h100v40H50z" fill="#3b82f6"/>
+  <path d="M70 60h60v10H70z" fill="#1d4ed8"/>
+  <path d="M80 130h40v10H80z" fill="#1d4ed8"/>
+  <circle cx="100" cy="100" r="15" fill="#ffffff"/>
+  <text x="100" y="170" text-anchor="middle" font-family="Arial" font-size="14" fill="#1e3a8a">PrintMaster Pro</text>
+</svg>

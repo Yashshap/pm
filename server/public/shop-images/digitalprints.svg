@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#fdf2f8"/>
+  <path d="M50 60h100v80H50z" fill="#ec4899"/>
+  <path d="M60 80h80v40H60z" fill="#ffffff"/>
+  <circle cx="100" cy="100" r="15" fill="#be185d"/>
+  <path d="M70 130h60v10H70z" fill="#be185d"/>
+  <text x="100" y="170" text-anchor="middle" font-family="Arial" font-size="14" fill="#831843">Digital Prints Co</text>
+</svg>

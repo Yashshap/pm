@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f0fdf4"/>
+  <path d="M60 70h80v60H60z" fill="#22c55e"/>
+  <path d="M80 60h40v10H80z" fill="#15803d"/>
+  <path d="M70 140h60v10H70z" fill="#15803d"/>
+  <path d="M75 85h50v30H75z" fill="#ffffff"/>
+  <circle cx="100" cy="100" r="10" fill="#15803d"/>
+  <text x="100" y="170" text-anchor="middle" font-family="Arial" font-size="14" fill="#14532d">Quick Print Express</text>
+</svg>
